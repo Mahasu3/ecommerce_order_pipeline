@@ -1,0 +1,3 @@
+I built an end-to-end data pipeline that simulates how an e-commerce platform processes transactions and tracks inventory. On the backend, I used SQLite to design a relational schema and written Python code to enforce business rules—like checking item stock before approving a purchase.
+
+Once orders are processed, the system runs SQL analytics—using joins and window functions—to output reporting metrics on customer spending trends. To ensure quality, I implemented unit tests to validate edge cases and managed the codebase using Git. It directly reflects how I translate real business requirements into functional technology solutions.
